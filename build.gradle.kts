@@ -4,7 +4,6 @@ plugins {
     id("io.spring.dependency-management") version "1.1.0"
 }
 
-
 group = "me.lee"
 version = "1.0"
 
